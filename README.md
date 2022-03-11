@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+> This is to test the README on GiHub profile functionality.
+
+Here you'll find some new and old stuff related to my works with DevOps tools like `terraform`, `ansible`, and `docker`.
+
+- 📫 How to reach me: rafael.natali@gmail.com
+- 👯 I’m looking to collaborate on **DevOps related initiative**
+- 💬 Ask me about or open an issue in any repository to interact
+
 <!--
 **rafaelmnatali/rafaelmnatali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
